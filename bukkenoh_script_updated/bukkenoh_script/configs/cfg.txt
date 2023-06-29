@@ -1,0 +1,3 @@
+laragon=C:\laragon
+webdocs=C:\laragon\www
+php=C:\laragon\bin\php
