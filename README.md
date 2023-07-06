@@ -9,5 +9,5 @@ This is after you're qualified or selected as a member of the Bukkenoh Team.
 4. The "Git Http Link:" will appear and copy and paste the repo from the backlog.<br>![image info](./img_backlog_01.jpg)
 5. And it will automatically clone the project.
 6. You will see 100% when the cloned project is successful.
-7. After cloning, it will install the composer and yarn.
+7. It will automatically install the composer and yarn.
 8. The system will ask for the "User ID:" and "Store ID:" and can be found on the "Wiki".
